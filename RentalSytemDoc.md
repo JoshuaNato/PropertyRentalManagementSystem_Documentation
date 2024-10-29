@@ -13,17 +13,27 @@ The proposed project Rental Management System Web Based consists of the followin
 
 
 •	Admin Booking Management:
-Admins manage all booking activities, ensuring availability and accurate scheduling.
-•	Profit Monitoring:
-The system allows admins to track and analyze profit margins, aiding financial decision-making.
-•	Payment Processing:
-Facilitates secure payment collection and transaction tracking for room bookings.
-•	Room Management:
-Admins can add, delete, and update room details to maintain an accurate listing.
-•	User-Friendly Booking:
-Users can easily browse rooms and services, then book based on their specific needs
+
+automating property listings, tenant applications and lease agreements.
+enhance communication between landlords,
+property managers, and tenants, ensuring transparency and satisfaction
+vacancy tracking 
+automated reminders
+
+The system reduces operational inefficiencies and supports timely decision-making for property owners
+
+Admin Booking Management: Admins manage all booking activities,
+
+Room Management: Admins can add, delete, and update room details to maintain an accurate listing. 
+
+• Booking Status • Explanation: Allows users to view the current status of their room bookings. This could include information on whether a room is booked, available, or pending confirmation.
+
+• News Letter: • Explanation: A feature for subscribing to or managing newsletters. This could involve sending out updates, promotions, or news related to the service or business.
+
+Add Rooms: Explanation: Allows users or administrators to add new rooms to the system. This involves entering details like room type, capacity, and amenities.
 
 
+Users and Their Corresponding System Features General Users: Booking Status: View the status of their own bookings. Manage Room Booking: Make, modify, or cancel room bookings. Room Status: See if a room is available or occupied (if applicable to the user’s role).
 
 
 Project Scope

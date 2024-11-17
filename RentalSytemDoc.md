@@ -246,7 +246,7 @@ Use Cases
 
 
 Entity Relationship Diagrams
-![14](https://github.com/user-attachments/assets/363b0b05-82b2-4ab7-8e66-b21990404b23)
+![ERD](https://github.com/user-attachments/assets/e41e10ac-d17a-4428-8bd6-ba3a295eae45)
  
 
 

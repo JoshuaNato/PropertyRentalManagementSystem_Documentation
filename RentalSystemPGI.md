@@ -18,18 +18,56 @@ C. Project Objectives:
 
 The primary objectives of the Property Rental Management System are to streamline property management tasks by automating property listings, tenant applications, and lease agreements. It aims to facilitate seamless online payments and maintenance requests, improving the overall efficiency of property management. Additionally, the system seeks to enhance communication between landlords, property managers, and tenants, ensuring transparency and satisfaction. By offering real-time financial reporting, vacancy tracking, and automated reminders, the system reduces operational inefficiencies and supports timely decision-making for property owners
 
-To develop a Travel booking System APP that will help manage the ______ with the following features:
+To develop a rental  that will help manage the ______ with the following features:
 
-Admin Booking Management:
-Admins manage all booking activities, ensuring availability and accurate scheduling.
- Profit Monitoring:
-The system allows admins to track and analyze profit margins, aiding financial decision-making.
- Payment Processing:
-Facilitates secure payment collection and transaction tracking for room bookings.
- Room Management:
-Admins can add, delete, and update room details to maintain an accurate listing.
- User-Friendly Booking:
-Users can easily browse rooms and services, then book based on their specific needs
+Key Features:
+Admin Features:
+Booking Management:
+
+Manage all booking activities, including approval, modification, and cancellation.
+Generate reports on booking trends and occupancy rates.
+Room Management:
+
+Add, delete, and update room details (type, capacity, amenities, and pricing).
+Maintain accurate and up-to-date listings.
+Vacancy Tracking:
+
+View and monitor room availability in real time.
+Identify underutilized or unoccupied rooms for promotional activities.
+Newsletter Management:
+
+Create and send newsletters with updates, promotions, and announcements.
+Allow users to subscribe/unsubscribe easily.
+Automated Reminders:
+
+Send reminders for upcoming lease expirations, payment deadlines, or maintenance schedules.
+Lease Agreement Automation:
+
+Generate and manage tenant lease agreements digitally, with electronic signatures.
+
+Additional Features:
+Tenant Applications:
+
+Automate tenant application processing with digital forms and verification tools.
+Enhanced Communication:
+
+Centralized platform for landlords, property managers, and tenants to communicate.
+Chat system or ticketing feature for issue resolution.
+Automated Property Listings:
+
+Automatically update online property listings with real-time availability data.
+Data Analytics:
+
+Generate insights into booking patterns, tenant preferences, and room performance.
+Support data-driven decision-making for property owners.
+
+Benefits:
+Operational Efficiency: Automates repetitive tasks such as bookings, reminders, and tenant applications.
+Transparency: Provides clear and accessible information for users and administrators.
+Improved Satisfaction: Enhances communication and ensures all parties stay informed.
+Time-Saving: Reduces manual intervention, freeing up time for property managers to focus on strategic activities.
+
+
 
 E. Project Deliverables
 

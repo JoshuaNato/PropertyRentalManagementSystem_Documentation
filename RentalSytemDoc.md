@@ -174,7 +174,10 @@ Update Rooms: Modify details of existing rooms. Delete Rooms: Remove rooms from 
 Use Cases 
 
 
-![13](https://github.com/user-attachments/assets/e05fbe3f-3825-48e7-a6d5-30f037e4e448)
+
+
+![Rental House Management System Use Case Diagram (1)](https://github.com/user-attachments/assets/28f53986-6c95-4b7c-b3bc-bed833664be0)
+
 
 
 | FIELD NAME | DESCRIPTION      | DATA TYPE     | LENGTH | SAMPLE              |
